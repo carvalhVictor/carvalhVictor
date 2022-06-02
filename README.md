@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Victor Carvalho
+- 💻 Full stack
